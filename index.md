@@ -19,8 +19,8 @@ NVivo is available free of charge to all UBC students, faculty, and staff.  You 
 install Nvivo on your Mac or PC before the workshop so you can follow along. See the [system requirements](https://it.ubc.ca/services/desktop-print-services/software-licensing/nvivo-pro-software){:target="_blank"}
  and [download instructions](https://ubc.service-now.com/kb_view_customer.do?sysparm_article=KB0014985){:target="_blank"}. 
 
- - **In-person workshops** are held in a PC lab with NVivo installed on all the computers; you are welcome to use one of the lab computers instead of your own laptop
- - For **online workshops** you are encouraged to install NVivo on your own computer before the workshop to follow along
+ - __In-person workshops__ are held in a PC lab with NVivo installed on all the computers; you are welcome to use one of the lab computers instead of your own laptop
+ - For __online workshops__ you are encouraged to install NVivo on your own computer before the workshop to follow along
 
 
 ## Schedule
