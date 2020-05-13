@@ -16,10 +16,10 @@ nav_order: 4
 
 ## Recommended reading
 
-### Available online from UBC Library
+### online from UBC Library
 - Woolf, N. H., & Silver, C. (2017). [Qualitative analysis using NVivo: The five level QDA method](http://tinyurl.com/yaxcdyee){:target="_blank"}. Routledge.
 
-### Available in print from UBC Library
+### in print from UBC Library
 
 - Jackson & Bazeley (2019). [Qualitative data analysis with NVivo](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=9917080){:target="_blank"}. Sage.    
 - Saldaña, J. (2016). [The coding manual for qualitative researchers](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=9160719){:target="_blank"}. Sage.  
