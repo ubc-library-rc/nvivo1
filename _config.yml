@@ -1,3 +1,4 @@
 title: "NVivo part 1: getting started with NVivo"
 remote_theme: ubc-library-rc/rc-workshop-template
-footer_content: "<a href=\"https://github.com/ubc-library-rc/nvivo1/\">View workshop content in GitHub</a>"
+footer_content: "<a href=\"https://github.com/ubc-library-rc/nvivo1/\">View content in GitHub</a>"
+search_enabled: false
