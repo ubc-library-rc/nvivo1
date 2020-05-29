@@ -23,13 +23,5 @@ install Nvivo on your Mac or PC before the workshop so you can follow along. See
  - For <strong>online workshops</strong> you are encouraged to install NVivo on your own computer before the workshop to follow along
 
 
-## Schedule
-(update or remove)
-
-| 0:00 | Setup and introductions |
-| 0:05  | _TBD_ |     
-| 0:25  | _TBD_ |
-| 0:45 | _TBD_ |
-
 
 If you have any questions or concerns please email [research.commons@ubc.ca](mailto:research.commons@ubc.ca).
