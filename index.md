@@ -20,7 +20,7 @@ All participants are encouraged to install NVivo before the workshop to follow a
 See the [system requirements](https://it.ubc.ca/services/desktop-print-services/software-licensing/nvivo-pro-software){:target="_blank"}
  and [download instructions](https://ubc.service-now.com/kb_view_customer.do?sysparm_article=KB0014985){:target="_blank"}.
 
- **Participants not affiliated with UBC:** Please install the 14 day [trial version](https://qsrinternational/trial-nvivo){:target="_blank"}.
+ **Participants not affiliated with UBC:** Please install the 14 day [trial version](https://qsrinternational.com/trial-nvivo){:target="_blank"}.
 
 If you have any questions or concerns please email [research.commons@ubc.ca](mailto:research.commons@ubc.ca).
 
