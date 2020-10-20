@@ -26,7 +26,7 @@ If you have any questions or concerns please email [research.commons@ubc.ca](mai
 
 
 ## Workshop slides
- - [NVivo part 1 - 2019](media/NVIVO_PC_Intro_27052020.pdf){:target="_blank"}
+ - [NVivo part 1 - 2019](media/NVivo_part_1_slides.pdf){:target="_blank"}
 
 ## Sample files
 
