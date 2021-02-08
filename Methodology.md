@@ -27,4 +27,3 @@ title: Methodology
 - [CAQDAS webinar 006 On the hunt for quality](https://www.youtube.com/watch?v=APC8k00I8R8&list=PL4FTAzJr41qQ9EsiNRF8QgjvNM6bfFw4T&index=9){:target="_blank"}.
 - [CAQDAS webinar 005 Transcription as an analytic act](https://www.youtube.com/watch?v=7X-s1r4l0QQ&list=PL4FTAzJr41qQ9EsiNRF8QgjvNM6bfFw4T&index=8){:target="_blank"}.
 - [Research Methods Summer Institute (Canadian Hub for Applied and Social Research (CHASR))](https://www.youtube.com/watch?v=xkdCDduzKtQ&list=PLZVQcEB31I4WFQZb-9Rnl7L9q7Ioc4HQ8){:target="_blank"}.
-- [Research Methods Summer Institute (Canadian Hub for Applied and Social Research (CHASR))](https://www.youtube.com/watch?v=xkdCDduzKtQ&list=PLZVQcEB31I4WFQZb-9Rnl7L9q7Ioc4HQ8){:target="_blank"}.
