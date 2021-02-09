@@ -1,5 +1,5 @@
 ---
-layout: rc-default
+layout: default
 nav_order: 5
 title: Methodology
 ---

@@ -1,5 +1,5 @@
 ---
-layout: rc-default
+layout: default
 nav_order: 2
 title: Overview
 ---
@@ -48,10 +48,10 @@ If you have any questions or concerns please email [research.commons@ubc.ca](mai
 - Miles, M. B., Huberman, A. M., & Saldaña, J. (2020). [Qualitative data analysis: a methods sourcebook](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=9917081){:target="_blank"}. 3rd. ed: Thousand Oaks, CA: Sage.
 - Richards, L. (2009). [Handling qualitative data: a practical guide](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=4168238){:target="_blank"}. Sage.
 - Maxwell, J. A. (2013). [Qualitative research design: an interactive approach](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=5959012){:target="_blank"} (Applied social research methods, Vol. 41). Sage publications.
-- Wertz, F. J. (2011). [Five ways of doing qualitative analysis: Phenomenological psychology, grounded theory, discourse analysis, narrative research, and intuitive inquiry] (https://tinyurl.com/y3oo727y){:target="_blank"}. Guilford Press.
-- Clarke, V., & Braun, V. (2013). [Successful qualitative research: A practical guide for beginners] (https://tinyurl.com/y4akzmdd){:target="_blank"}. Sage.
-- Lewins, A., & Silver, C. (2014). [Using software in qualitative research: A step-by-step guide (2nd ed.)] (https://tinyurl.com/y3uhl4m3){:target="_blank"}. SAGE Publications, Limited.
-- Richards, L., & Morse, J. M. (2013). [Readme first for a user's guide to qualitative methods (3rd ed.)] (https://tinyurl.com/y3qsgo4v){:target="_blank"}. Sage.
+- Wertz, F. J. (2011). [Five ways of doing qualitative analysis: Phenomenological psychology, grounded theory, discourse analysis, narrative research, and intuitive inquiry](https://tinyurl.com/y3oo727y){:target="_blank"}. Guilford Press.
+- Clarke, V., & Braun, V. (2013). [Successful qualitative research: A practical guide for beginners](https://tinyurl.com/y4akzmdd){:target="_blank"}. Sage.
+- Lewins, A., & Silver, C. (2014). [Using software in qualitative research: A step-by-step guide (2nd ed.)](https://tinyurl.com/y3uhl4m3){:target="_blank"}. SAGE Publications, Limited.
+- Richards, L., & Morse, J. M. (2013). [Readme first for a user's guide to qualitative methods (3rd ed.)](https://tinyurl.com/y3qsgo4v){:target="_blank"}. Sage.
 - Paulus, T.M., & Lester, J.N. (2021). Doing Qualitative Research in a Digital World. Sage.
-- Bernard, H. R., Wutich, A., & Ryan, G. W. (2017). [Analyzing qualitative data: Systematic approaches (Second ed.)]. (https://tinyurl.com/y6onkhz){:target="_blank"} SAGE.
+- Bernard, H. R., Wutich, A., & Ryan, G. W. (2017). [Analyzing qualitative data: Systematic approaches (Second ed.)](https://tinyurl.com/y6onkhz){:target="_blank"} SAGE.
 - Tavory, I., & Timmermans, S. (2014). Abductive analysis: Theorizing qualitative research. University of Chicago Press.

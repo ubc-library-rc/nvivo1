@@ -1,12 +1,12 @@
 ---
-layout: rc-default
+layout: default
 nav_order: 3
-title: NVivo: "How to" Videos
+title: "NVivo \"How to\" Videos"
 ---
 # Online videos on how to use NVivo
 
 - [NVivo 12 Windows (How to) - Playlist from QSR (the company that makes NVivo)](https://www.youtube.com/watch?v=AczCzACaLtc&list=PLNjHMRgHS4Fd7g4Q1BQuQgm-gLxy97FqY){:target="_blank"}.
-- [NVivo 12 Mac (How ti) - Playlist from QSR (the company that makes NVivo)](https://www.youtube.com/watch?v=_Htw45Oq-k8&list=PLNjHMRgHS4Ff1Pb5Ca_6pe-FbSMbOVCZz){:target="_blank"}.
+- [NVivo 12 Mac (How to) - Playlist from QSR (the company that makes NVivo)](https://www.youtube.com/watch?v=_Htw45Oq-k8&list=PLNjHMRgHS4Ff1Pb5Ca_6pe-FbSMbOVCZz){:target="_blank"}.
 - [NVivo (How to) - Playlist from Hull Uni Library](https://www.youtube.com/watch?v=rnBBJDW4RhI&list=PLjCDy_BmhjHJsZnHXpMMC7OVUr7BcpgX8){:target="_blank"}.
 - [NVivo 12 for Windows: Creating a Project, Importing Files, and Coding](https://www.youtube.com/watch?v=rAF3HAOEoOo){:target="_blank"}.
 - [NVivo 12 for Windows: Classifications, Relationships, and Second Cycle Coding](https://www.youtube.com/watch?v=mB2sTTy_y_w){:target="_blank"}.
@@ -14,7 +14,7 @@ title: NVivo: "How to" Videos
 - [Analyzing Qualitative Data: NVivo 12 Pro for Windows (basic- and intermediate-level features)](https://www.youtube.com/watch?v=CKPS4LF9G8A){:target="_blank"}.
 - [Using Coding Queries and Survey Tools to Illuminate Relationships](https://www.youtube.com/watch?v=mEA9jY0AXN0){:target="_blank"}.
 - [NVivo and the Dissertation Literature Review](https://www.youtube.com/watch?v=LyOIvT2ARus){:target="_blank"}.
-- [Harnessing NVivo using the Five-Level QDA method - see especially NVivo Component Orientations] (https://www.youtube.com/watch?v=dDa3Uw0PBWs&list=PL4FTAzJr41qRQWcVjFitiJE5sw9y2nZX5){:target="_blank"}.
+- [Harnessing NVivo using the Five-Level QDA method - see especially NVivo Component Orientations](https://www.youtube.com/watch?v=dDa3Uw0PBWs&list=PL4FTAzJr41qRQWcVjFitiJE5sw9y2nZX5){:target="_blank"}.
 
 # Online videos about coding and team collaboration (related to ATLAS.ti but relevant to NVivo users too)
 
