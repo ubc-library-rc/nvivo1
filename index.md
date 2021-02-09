@@ -34,13 +34,27 @@ If you have any questions or concerns please email [research.commons@ubc.ca](mai
 
 ## Sample files
 
-- [Interview](media/Barbara.docx)
-- [PDF](media/Crossroads marks 30 years.pdf)
+- [Interview sample](media/Barbara.docx)
+- [PDF sample](media/Crossroads marks 30 years.pdf)
 - [Audio sample](media/sample-audio.mp3)
 - [Video sample](media/Ken.wmv)
-- [Images](media/Barrier island developed.jpg)
+- [Image sample](media/Barrier island developed.jpg)
+- [Sample survey responses](media/Classification_sheets_PC.zip)
+- [Mac classification sheets](media/Classification_Sheets_Mac (1).zip)
+- [Mendeley literature for Mac and PC](media/Papers.ris)
+- [Mac sample project (for Mendeley literature)](media/Sample project_31219.nvpx)
+- [PC sample project (for Mendeley literature)](media/TestIntermediateWS_PC_updated (NVivo 12).nvp)
+- [Mac literature review code list](media/Literature_Review_Code_List_MAC_nvpx.nvpx)
+- [PC literature review code list](media/Literature_Review_Code_List_PC_.nvp)
 
-## Recommended reading
+## Handouts
+- [Mac how-to introductory guide](media/20160928_NVivo_Workshop_1_Mac_Howto.pdf)
+- [PC how-to introductory guide](media/20180716_NVivo_Workshop_1_PC_Basic_HowTo.pdf)
+- [Mac how-to intermediate guide](media/20180802_NVivo_2_PC_Classifications_Datasets_HowTo (1).pdf)
+- [PC how-to intermediate guide](media/20180802_NVivo_2_PC_Classifications_Datasets_HowTo (1).pdf)
+
+
+## Recommended readings
 
 - Woolf, N. H., & Silver, C. (2017). [Qualitative analysis using NVivo: The five level QDA method](http://tinyurl.com/yaxcdyee){:target="_blank"}. Routledge.
 - Jackson & Bazeley (2019). [Qualitative data analysis with NVivo](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=9917080){:target="_blank"}. Sage.    
