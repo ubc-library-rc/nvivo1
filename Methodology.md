@@ -3,8 +3,11 @@ layout: default
 nav_order: 5
 title: Methodology
 ---
-# Videos on methodology:
+# Online resources on methodology:
 
+- [Methodspace](https://www-methodspace-com.ezproxy.library.ubc.ca/){:target="_blank"}.
+- [Online QDA](http://onlineqda.hud.ac.uk/){:target="_blank"}.
+- [Analytic Activities in Qualitative and Mixed Methods Research](https://youtu.be/9cFmbGzo77k){:target="_blank"}.
 - [Thematic analysis - an introduction](https://www.youtube.com/watch?v=5zFcC10vOVY){:target="_blank"}.
 - [Thematic Analysis Part 1 - Braun Clarke & Hayfield](https://www.youtube.com/watch?v=Lor1A0kRIKU){:target="_blank"}.
 - [Thematic Analysis Part 2 - Braun Clarke & Hayfield](https://www.youtube.com/watch?v=DzMgUGPl5S0){:target="_blank"}.
