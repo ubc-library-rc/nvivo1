@@ -67,7 +67,7 @@ If you have any questions or concerns please email [research.commons@ubc.ca](mai
 - Paulus, T.M., & Lester, J.N. (2021). Doing Qualitative Research in a Digital World. Sage.
 - Richards, L. (2009). [Handling qualitative data: a practical guide](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=4168238){:target="_blank"}. Sage.
 - Richards, L., & Morse, J. M. (2013). [Readme first for a user's guide to qualitative methods (3rd ed.)](https://tinyurl.com/y3qsgo4v){:target="_blank"}. Sage.
-- Saldaña, J. (2016). [The coding manual for qualitative researchers](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=9160719){:target="_blank"}. Sage.  
+- Saldaña, J. (2021). The coding manual for qualitative researchers (4th ed). Sage.  
 - Swedberg, R. (2014). The Art of Social Theory. Princeton University Press.
 - Tavory, I., & Timmermans, S. (2014). Abductive analysis: Theorizing qualitative research. University of Chicago Press.
 - Wallace, M. & Wray, A. (2011). Critical Reading and Writing for Postgraduates. Sage
