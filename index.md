@@ -7,7 +7,7 @@ title: Overview
 
 ## Description
 
-The online workshops cover both Mac and PC versions of NVivo 12.
+The online workshops cover both Mac and PC versions of NVivo.
 
 Part 1: 
 NVivo is a computer-assisted qualitative data analysis software.
